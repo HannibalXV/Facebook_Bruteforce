@@ -1,3 +1,4 @@
+![image (1)](https://github.com/HannibalXV/Facebook_Bruteforce/assets/77382530/7f5eb687-3574-45e8-9ce4-15d6bc112b68)
 
 # Facebook_Bruteforce
 This code uses the Selenium library in Python to automate the process of logging into Facebook. It takes an email and a file containing a list of passwords as inputs. The code iterates through each password, fills in the email and password fields on the Facebook login page, submits the form, and checks if the login is successful. It prints a message indicating whether the login was successful or not.
